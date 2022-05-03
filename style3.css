@@ -1,0 +1,51 @@
+body{
+    background-image:url(https://www.invaluable.com/blog/wp-content/uploads/2017/06/Invaluable-British-Landscapes-Turner-Hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    font-family: 'noto sans';
+    text-align: center;
+}
+
+header{
+   
+    text-align: center;
+    background-image: url(https://imagecache.artlookonline.com/image/slide/1784/groupings/extras/63938/FS_63938_0002.JPG);
+    margin-right: 32%;
+    margin-left: 32%;   
+}
+
+.menu {
+    font-weight: bolder;
+    padding: 10px;
+    background-image:url(https://www.deberes.net/wp-content/uploads/2020/08/Colour-Beginning-William-Turner.jpg?x57138);
+    margin-right: 32%;
+    margin-left: 32%   
+}
+
+.link {
+    text-decoration: none;
+    color:black;
+}
+
+.paragraph{
+    background-image: url(https://th.bing.com/th/id/R.d87dfcbe5f9c62a4856cc046a31b02d2?rik=%2fm5JYRWnWlu2rQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-eowJHRpvGmM%2fUjul9dbHjHI%2fAAAAAAAAeNM%2fKwXYFsi2Qog%2fs1600%2fScreen%2bShot%2b2013-09-19%2bat%2b8.33.00%2bPM.png&ehk=w4cwIX3cUhb3hMgCFWtL7K4lxWDtC6uy9cCZM5YqmRk%3d&risl=&pid=ImgRaw&r=0);
+    margin-right: 30%;
+    margin-left: 30%;
+    background-size:150% 100%;
+    background-position: center center;
+}
+
+.style{
+    font-weight: bold;
+    font-size:larger;
+}
+
+.about{
+    margin-right:5%;
+    margin-left:5%;
+    text-align:left;
+    background-repeat: no-repeat;
+    font-size: 20;
+    text-indent: 20px;
+}
